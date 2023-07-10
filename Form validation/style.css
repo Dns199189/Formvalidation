@@ -1,0 +1,59 @@
+html{
+    background-image: linear-gradient(rgb(0, 0, 0,0.5),rgb(0, 0, 0,0.5)),url(background.jpg);
+  
+    margin-top: 120px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+}
+label{
+    width: 150px;
+    float: left;
+    position: relative;
+    top: 30px;
+}
+input{
+    width: 320px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.output{
+    float:right;
+    position: relative;
+    margin-top: 20px;
+    margin-right: 200px;
+    height: 320px;
+    width: 120px;
+}
+.result{
+    font-size: 15px;
+    
+}
+#pr{
+    margin-top: 40px;
+}
+#pnr{
+    margin-top: 90px;
+}
+#sub{
+    background-color: rgb(228, 110, 20);
+    margin-left: 160px;
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 12px;
+}
+.checkbox{
+    background-color: blue;
+    margin-top: 50px;
+    width: 15x;
+    height: 15px;
+}
+:checked{
+    color: blue;
+    margin-top: 20px;
+    width: 15x;
+    height: 15px;
+
+}
